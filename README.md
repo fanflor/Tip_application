@@ -1,6 +1,5 @@
 # Tip_application
-# TIP_APP
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip app*
 
 **Tip app** is a tip calculator application for iOS.
 
